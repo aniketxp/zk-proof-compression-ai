@@ -28,8 +28,9 @@ Zero-Knowledge (ZK) proofs are crucial for scaling blockchains, but proof sizes 
 🔹 Potential for **cheaper & faster rollups**  
 
 **Example:**
-![Autoencoder Training Loss](link-to-image)  
-![Original vs Compressed Proof](link-to-image)  
+![image](https://github.com/user-attachments/assets/148f6a81-03b5-4b4f-b669-a3cf081d20d1)
+![image](https://github.com/user-attachments/assets/3cc81ad9-511f-4cc0-b6c4-9c840db781b5)
+
 
 ---
 
