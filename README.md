@@ -37,5 +37,5 @@ Zero-Knowledge (ZK) proofs are crucial for scaling blockchains, but proof sizes 
 ## 📂 **Setup & Run**
 1️⃣ Clone the repo:  
 ```bash
-git clone https://github.com/your-username/zk-proof-compression-ai.git  
+git clone https://github.com/aniketxp/zk-proof-compression-ai.git  
 cd zk-proof-compression-ai  
